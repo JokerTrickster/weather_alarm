@@ -1,0 +1,25 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+**weather_alarm** (날씨 알람 프로젝트) - A weather alarm project.
+
+## Current State
+
+This is a new repository with no implementation yet. As the codebase develops, this file should be updated with:
+
+- Build, test, and development commands
+- Architecture overview and design patterns
+- Key modules and their responsibilities
+- Configuration and environment setup
+- Integration points and external dependencies
+
+## Development Guidelines
+
+When implementing this project:
+- Consider the target platform (mobile app, web service, IoT device, etc.)
+- Define the weather data source and API integration strategy
+- Establish the alarm/notification mechanism
+- Plan the user configuration and preference storage
